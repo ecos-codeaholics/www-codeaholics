@@ -3701,3 +3701,31 @@
 		}
 
 	}
+
+
+	.team-member {
+	  text-align: center;
+	  margin-bottom: 20px;
+	}
+	.team-member img {
+	  margin: 0 auto;
+	  border: 2px solid white;
+	}
+	.team-member h4 {
+	  margin-top: 10px;
+	  margin-bottom: 0;
+	  text-transform: none;
+	}
+	.team-member p {
+	  margin-top: 0;
+	}
+
+	.img-circle {
+    border-radius: 70%;
+}
+
+.doc-vistas img {
+	margin: 0 auto;
+	border: 2px solid gray;
+	background-color: white;
+}
